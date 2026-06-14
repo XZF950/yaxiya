@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "mqdglnrye19as",
+    "sku": "1114",
+    "name": "小衫",
+    "color": "绿色",
+    "size": "XS",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:24:55.582Z"
+  },
+  {
+    "id": "mqdglnryxgqhg",
+    "sku": "1114",
+    "name": "小衫",
+    "color": "绿色",
+    "size": "S",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:24:55.582Z"
+  },
+  {
+    "id": "mqdglnrywb4el",
+    "sku": "1114",
+    "name": "小衫",
+    "color": "绿色",
+    "size": "M",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:24:55.582Z"
+  },
+  {
+    "id": "mqdglnrycpial",
+    "sku": "1114",
+    "name": "小衫",
+    "color": "绿色",
+    "size": "L",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:24:55.582Z"
+  },
+  {
+    "id": "mqdglnrybr50x",
+    "sku": "1114",
+    "name": "小衫",
+    "color": "绿色",
+    "size": "XL",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:24:55.582Z"
+  }
+]
