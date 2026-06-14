@@ -358,5 +358,89 @@
     "totalOut": 0,
     "price": 0,
     "createdAt": "2026-06-14T07:41:21.670Z"
+  },
+  {
+    "id": "mqdhaz6u9d57p",
+    "sku": "417068",
+    "name": "针织",
+    "color": "燕麦色",
+    "size": "均码",
+    "qty": 2,
+    "totalIn": 2,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:44:36.774Z"
+  },
+  {
+    "id": "mqdhaz6uvwsnh",
+    "sku": "417068",
+    "name": "针织",
+    "color": "灰色",
+    "size": "均码",
+    "qty": 2,
+    "totalIn": 2,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:44:36.774Z"
+  },
+  {
+    "id": "mqdhaz6urkl33",
+    "sku": "417068",
+    "name": "针织",
+    "color": "粉色",
+    "size": "均码",
+    "qty": 2,
+    "totalIn": 2,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:44:36.774Z"
+  },
+  {
+    "id": "mqdhaz6uds5ot",
+    "sku": "417825",
+    "name": "针织",
+    "color": "红色",
+    "size": "均码",
+    "qty": 2,
+    "totalIn": 2,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:44:36.774Z"
+  },
+  {
+    "id": "mqdhaz6upy179",
+    "sku": "417825",
+    "name": "针织",
+    "color": "粉色",
+    "size": "均码",
+    "qty": 2,
+    "totalIn": 2,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:44:36.774Z"
+  },
+  {
+    "id": "mqdhaz6u3nuqd",
+    "sku": "417828",
+    "name": "针织",
+    "color": "驼色",
+    "size": "均码",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:44:36.774Z"
+  },
+  {
+    "id": "mqdhaz6uyyhnd",
+    "sku": "417825",
+    "name": "针织",
+    "color": "米色",
+    "size": "均码",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:44:36.774Z"
   }
 ]
