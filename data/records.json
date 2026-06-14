@@ -1,5 +1,27 @@
 [
   {
+    "id": "mqdheq3ks4m6l",
+    "type": "进货",
+    "sku": "427669",
+    "name": "针织",
+    "color": "粉色",
+    "size": "均码",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:47:31.616Z"
+  },
+  {
+    "id": "mqdheq3kq3a3h",
+    "type": "进货",
+    "sku": "427669",
+    "name": "针织",
+    "color": "米色",
+    "size": "均码",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:47:31.616Z"
+  },
+  {
     "id": "mqdhaz6ungoyy",
     "type": "进货",
     "sku": "417825",
