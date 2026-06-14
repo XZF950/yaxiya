@@ -1,5 +1,60 @@
 [
   {
+    "id": "mqdh1hqdoqppf",
+    "type": "进货",
+    "sku": "407628",
+    "name": "子",
+    "color": "蓝色",
+    "size": "2XL",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:37:14.245Z"
+  },
+  {
+    "id": "mqdh1hqdxb8xx",
+    "type": "进货",
+    "sku": "407628",
+    "name": "子",
+    "color": "蓝色",
+    "size": "XL",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:37:14.245Z"
+  },
+  {
+    "id": "mqdh1hqdod5qb",
+    "type": "进货",
+    "sku": "407628",
+    "name": "子",
+    "color": "蓝色",
+    "size": "L",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:37:14.245Z"
+  },
+  {
+    "id": "mqdh1hqdybbsb",
+    "type": "进货",
+    "sku": "407628",
+    "name": "子",
+    "color": "蓝色",
+    "size": "M",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:37:14.245Z"
+  },
+  {
+    "id": "mqdh1hqdj6vkh",
+    "type": "进货",
+    "sku": "407628",
+    "name": "子",
+    "color": "蓝色",
+    "size": "S",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:37:14.245Z"
+  },
+  {
     "id": "mqdgzz0mgl5wg",
     "type": "进货",
     "sku": "407588",
