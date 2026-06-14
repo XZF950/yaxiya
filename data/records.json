@@ -1,5 +1,82 @@
 [
   {
+    "id": "mqdhaz6ungoyy",
+    "type": "进货",
+    "sku": "417825",
+    "name": "针织",
+    "color": "米色",
+    "size": "均码",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:44:36.774Z"
+  },
+  {
+    "id": "mqdhaz6u0tqve",
+    "type": "进货",
+    "sku": "417828",
+    "name": "针织",
+    "color": "驼色",
+    "size": "均码",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:44:36.774Z"
+  },
+  {
+    "id": "mqdhaz6unvvm0",
+    "type": "进货",
+    "sku": "417825",
+    "name": "针织",
+    "color": "粉色",
+    "size": "均码",
+    "qty": 2,
+    "price": 0,
+    "date": "2026-06-14T07:44:36.774Z"
+  },
+  {
+    "id": "mqdhaz6umcfqw",
+    "type": "进货",
+    "sku": "417825",
+    "name": "针织",
+    "color": "红色",
+    "size": "均码",
+    "qty": 2,
+    "price": 0,
+    "date": "2026-06-14T07:44:36.774Z"
+  },
+  {
+    "id": "mqdhaz6u14rkh",
+    "type": "进货",
+    "sku": "417068",
+    "name": "针织",
+    "color": "粉色",
+    "size": "均码",
+    "qty": 2,
+    "price": 0,
+    "date": "2026-06-14T07:44:36.774Z"
+  },
+  {
+    "id": "mqdhaz6ujcz4i",
+    "type": "进货",
+    "sku": "417068",
+    "name": "针织",
+    "color": "灰色",
+    "size": "均码",
+    "qty": 2,
+    "price": 0,
+    "date": "2026-06-14T07:44:36.774Z"
+  },
+  {
+    "id": "mqdhaz6ufvcqc",
+    "type": "进货",
+    "sku": "417068",
+    "name": "针织",
+    "color": "燕麦色",
+    "size": "均码",
+    "qty": 2,
+    "price": 0,
+    "date": "2026-06-14T07:44:36.774Z"
+  },
+  {
     "id": "mqdh6snao1jt6",
     "type": "进货",
     "sku": "417058",
