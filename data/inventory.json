@@ -1510,5 +1510,41 @@
     "totalOut": 0,
     "price": 0,
     "createdAt": "2026-06-14T08:05:31.143Z"
+  },
+  {
+    "id": "mqdi5fjrjs65r",
+    "sku": "04231706",
+    "name": "小衫",
+    "color": "红色",
+    "size": "L",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T08:08:17.655Z"
+  },
+  {
+    "id": "mqdi5fjr5mr8t",
+    "sku": "04231706",
+    "name": "小衫",
+    "color": "红色",
+    "size": "XL",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T08:08:17.655Z"
+  },
+  {
+    "id": "mqdi5fjraq267",
+    "sku": "04231706",
+    "name": "小衫",
+    "color": "红色",
+    "size": "3XL",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T08:08:17.655Z"
   }
 ]
