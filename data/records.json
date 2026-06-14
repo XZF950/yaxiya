@@ -1,5 +1,49 @@
 [
   {
+    "id": "mqdi93w97x7o0",
+    "type": "进货",
+    "sku": "25109",
+    "name": "长裤",
+    "color": "米白色",
+    "size": "4XL",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T08:11:09.177Z"
+  },
+  {
+    "id": "mqdi93w96n02i",
+    "type": "进货",
+    "sku": "25109",
+    "name": "长裤",
+    "color": "米白色",
+    "size": "3XL",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T08:11:09.177Z"
+  },
+  {
+    "id": "mqdi93w9tj7uk",
+    "type": "进货",
+    "sku": "25109",
+    "name": "长裤",
+    "color": "米白色",
+    "size": "2XL",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T08:11:09.177Z"
+  },
+  {
+    "id": "mqdi93w9x6xst",
+    "type": "进货",
+    "sku": "25109",
+    "name": "长裤",
+    "color": "米白色",
+    "size": "XL",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T08:11:09.177Z"
+  },
+  {
     "id": "mqdi5fjrr7uwt",
     "type": "进货",
     "sku": "04231706",
