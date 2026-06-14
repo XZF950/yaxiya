@@ -106,5 +106,29 @@
     "totalOut": 0,
     "price": 0,
     "createdAt": "2026-06-14T07:31:05.798Z"
+  },
+  {
+    "id": "mqdgw8hqj0co0",
+    "sku": "0328912",
+    "name": "针织",
+    "color": "黄色",
+    "size": "均码",
+    "qty": 2,
+    "totalIn": 2,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:33:08.990Z"
+  },
+  {
+    "id": "mqdgw8hqy1dhn",
+    "sku": "414916",
+    "name": "针织",
+    "color": "紫色",
+    "size": "均码",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:33:08.990Z"
   }
 ]
