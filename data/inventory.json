@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": "mqdfye530uxec",
+    "sku": "1141",
+    "name": "小衫",
+    "color": "绿色",
+    "size": "XL",
+    "qty": 2,
+    "totalIn": 2,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:06:50.007Z"
+  },
+  {
+    "id": "mqdfye5348nt7",
+    "sku": "1141",
+    "name": "小衫",
+    "color": "绿色",
+    "size": "2XL",
+    "qty": 2,
+    "totalIn": 2,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:06:50.007Z"
+  },
+  {
+    "id": "mqdfye53lsugr",
+    "sku": "1141",
+    "name": "小衫",
+    "color": "绿色",
+    "size": "3XL",
+    "qty": 2,
+    "totalIn": 2,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:06:50.007Z"
+  }
+]
