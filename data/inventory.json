@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "id": "mqdgtlfqbxubl",
+    "sku": "1141",
+    "name": "小衫",
+    "color": "绿色",
+    "size": "XL",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:31:05.798Z"
+  },
+  {
+    "id": "mqdgtlfq0szru",
+    "sku": "1141",
+    "name": "小衫",
+    "color": "绿色",
+    "size": "2XL",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:31:05.798Z"
+  },
+  {
+    "id": "mqdgtlfqjqdrg",
+    "sku": "1141",
+    "name": "小衫",
+    "color": "绿色",
+    "size": "3XL",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:31:05.798Z"
+  },
+  {
+    "id": "mqdgtlfql88j3",
+    "sku": "1141",
+    "name": "小衫",
+    "color": "桔色",
+    "size": "XL",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:31:05.798Z"
+  },
+  {
+    "id": "mqdgtlfqkpkxk",
+    "sku": "1141",
+    "name": "小衫",
+    "color": "桔色",
+    "size": "2XL",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:31:05.798Z"
+  },
+  {
+    "id": "mqdgtlfq5m5xd",
+    "sku": "1141",
+    "name": "小衫",
+    "color": "桔色",
+    "size": "3XL",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:31:05.798Z"
+  },
+  {
+    "id": "mqdgtlfq60im7",
+    "sku": "1141",
+    "name": "小衫",
+    "color": "杏色",
+    "size": "XL",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:31:05.798Z"
+  },
+  {
+    "id": "mqdgtlfqgjail",
+    "sku": "1141",
+    "name": "小衫",
+    "color": "杏色",
+    "size": "2XL",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:31:05.798Z"
+  },
+  {
+    "id": "mqdgtlfqqz586",
+    "sku": "1141",
+    "name": "小衫",
+    "color": "杏色",
+    "size": "3XL",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:31:05.798Z"
+  }
+]
