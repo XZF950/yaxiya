@@ -1,5 +1,38 @@
 [
   {
+    "id": "mqdi5fjrr7uwt",
+    "type": "进货",
+    "sku": "04231706",
+    "name": "小衫",
+    "color": "红色",
+    "size": "3XL",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T08:08:17.655Z"
+  },
+  {
+    "id": "mqdi5fjrk40os",
+    "type": "进货",
+    "sku": "04231706",
+    "name": "小衫",
+    "color": "红色",
+    "size": "XL",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T08:08:17.655Z"
+  },
+  {
+    "id": "mqdi5fjrz6bpa",
+    "type": "进货",
+    "sku": "04231706",
+    "name": "小衫",
+    "color": "红色",
+    "size": "L",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T08:08:17.655Z"
+  },
+  {
     "id": "mqdi1v2faemkl",
     "type": "进货",
     "sku": "19028",
