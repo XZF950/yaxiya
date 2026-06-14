@@ -1,5 +1,82 @@
 [
   {
+    "id": "mqdh6snao1jt6",
+    "type": "进货",
+    "sku": "417058",
+    "name": "小衫",
+    "color": "蓝色",
+    "size": "均码",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:41:21.670Z"
+  },
+  {
+    "id": "mqdh6sna7b1yl",
+    "type": "进货",
+    "sku": "417058",
+    "name": "针织",
+    "color": "灰色",
+    "size": "均码",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:41:21.670Z"
+  },
+  {
+    "id": "mqdh6snah8m2b",
+    "type": "进货",
+    "sku": "417058",
+    "name": "针织",
+    "color": "白色",
+    "size": "均码",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:41:21.670Z"
+  },
+  {
+    "id": "mqdh6snabmlc2",
+    "type": "进货",
+    "sku": "417088",
+    "name": "针织",
+    "color": "绿色",
+    "size": "均码",
+    "qty": 2,
+    "price": 0,
+    "date": "2026-06-14T07:41:21.670Z"
+  },
+  {
+    "id": "mqdh6snadcr3q",
+    "type": "进货",
+    "sku": "425072",
+    "name": "小衫",
+    "color": "酒红",
+    "size": "XL",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:41:21.670Z"
+  },
+  {
+    "id": "mqdh6snakwnz3",
+    "type": "进货",
+    "sku": "425072",
+    "name": "小衫",
+    "color": "酒红",
+    "size": "L",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:41:21.670Z"
+  },
+  {
+    "id": "mqdh6snae4vea",
+    "type": "进货",
+    "sku": "425072",
+    "name": "小衫",
+    "color": "酒红",
+    "size": "M",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:41:21.670Z"
+  },
+  {
     "id": "mqdh1hqdoqppf",
     "type": "进货",
     "sku": "407628",
