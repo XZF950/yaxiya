@@ -1,5 +1,115 @@
 [
   {
+    "id": "mqdhi9a6zq9xo",
+    "type": "进货",
+    "sku": "23859",
+    "name": "小衫",
+    "color": "绿色",
+    "size": "4XL",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:50:16.446Z"
+  },
+  {
+    "id": "mqdhi9a6yqnb5",
+    "type": "进货",
+    "sku": "23859",
+    "name": "小衫",
+    "color": "绿色",
+    "size": "3XL",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:50:16.446Z"
+  },
+  {
+    "id": "mqdhi9a687qe3",
+    "type": "进货",
+    "sku": "23859",
+    "name": "小衫",
+    "color": "绿色",
+    "size": "2XL",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:50:16.446Z"
+  },
+  {
+    "id": "mqdhi9a6h3dmt",
+    "type": "进货",
+    "sku": "23859",
+    "name": "小衫",
+    "color": "绿色",
+    "size": "XL",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:50:16.446Z"
+  },
+  {
+    "id": "mqdhi9a65rj8x",
+    "type": "进货",
+    "sku": "23859",
+    "name": "小衫",
+    "color": "绿色",
+    "size": "L",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:50:16.446Z"
+  },
+  {
+    "id": "mqdhi9a6m4lbc",
+    "type": "进货",
+    "sku": "23859",
+    "name": "小衫",
+    "color": "黄色",
+    "size": "4XL",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:50:16.446Z"
+  },
+  {
+    "id": "mqdhi9a6gackk",
+    "type": "进货",
+    "sku": "23859",
+    "name": "小衫",
+    "color": "黄色",
+    "size": "3XL",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:50:16.446Z"
+  },
+  {
+    "id": "mqdhi9a6f7ar0",
+    "type": "进货",
+    "sku": "23859",
+    "name": "小衫",
+    "color": "黄色",
+    "size": "2XL",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:50:16.446Z"
+  },
+  {
+    "id": "mqdhi9a6r1r1s",
+    "type": "进货",
+    "sku": "23859",
+    "name": "小衫",
+    "color": "黄色",
+    "size": "XL",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:50:16.446Z"
+  },
+  {
+    "id": "mqdhi9a6jbi9e",
+    "type": "进货",
+    "sku": "23859",
+    "name": "小衫",
+    "color": "黄色",
+    "size": "L",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:50:16.446Z"
+  },
+  {
     "id": "mqdhg62my642i",
     "type": "进货",
     "sku": "504018",
