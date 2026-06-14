@@ -1582,5 +1582,17 @@
     "totalOut": 0,
     "price": 0,
     "createdAt": "2026-06-14T08:11:09.177Z"
+  },
+  {
+    "id": "mqdj5z2oj6upe",
+    "sku": "417825",
+    "name": "针织",
+    "color": "驼色",
+    "size": "均码",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T08:36:42.576Z"
   }
 ]
