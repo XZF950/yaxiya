@@ -1,1 +1,101 @@
-[]
+[
+  {
+    "id": "mqdgtlfqu81da",
+    "type": "进货",
+    "sku": "1141",
+    "name": "小衫",
+    "color": "杏色",
+    "size": "3XL",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:31:05.798Z"
+  },
+  {
+    "id": "mqdgtlfqihw2l",
+    "type": "进货",
+    "sku": "1141",
+    "name": "小衫",
+    "color": "杏色",
+    "size": "2XL",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:31:05.798Z"
+  },
+  {
+    "id": "mqdgtlfqlbzyj",
+    "type": "进货",
+    "sku": "1141",
+    "name": "小衫",
+    "color": "杏色",
+    "size": "XL",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:31:05.798Z"
+  },
+  {
+    "id": "mqdgtlfqywbun",
+    "type": "进货",
+    "sku": "1141",
+    "name": "小衫",
+    "color": "桔色",
+    "size": "3XL",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:31:05.798Z"
+  },
+  {
+    "id": "mqdgtlfqcndnc",
+    "type": "进货",
+    "sku": "1141",
+    "name": "小衫",
+    "color": "桔色",
+    "size": "2XL",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:31:05.798Z"
+  },
+  {
+    "id": "mqdgtlfqmjqmz",
+    "type": "进货",
+    "sku": "1141",
+    "name": "小衫",
+    "color": "桔色",
+    "size": "XL",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:31:05.798Z"
+  },
+  {
+    "id": "mqdgtlfq48ed0",
+    "type": "进货",
+    "sku": "1141",
+    "name": "小衫",
+    "color": "绿色",
+    "size": "3XL",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:31:05.798Z"
+  },
+  {
+    "id": "mqdgtlfq6j81p",
+    "type": "进货",
+    "sku": "1141",
+    "name": "小衫",
+    "color": "绿色",
+    "size": "2XL",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:31:05.798Z"
+  },
+  {
+    "id": "mqdgtlfqecfue",
+    "type": "进货",
+    "sku": "1141",
+    "name": "小衫",
+    "color": "绿色",
+    "size": "XL",
+    "qty": 1,
+    "price": 0,
+    "date": "2026-06-14T07:31:05.798Z"
+  }
+]
