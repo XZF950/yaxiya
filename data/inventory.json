@@ -214,5 +214,65 @@
     "totalOut": 0,
     "price": 0,
     "createdAt": "2026-06-14T07:36:03.334Z"
+  },
+  {
+    "id": "mqdh1hqdtswyr",
+    "sku": "407628",
+    "name": "子",
+    "color": "蓝色",
+    "size": "S",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:37:14.245Z"
+  },
+  {
+    "id": "mqdh1hqdce647",
+    "sku": "407628",
+    "name": "子",
+    "color": "蓝色",
+    "size": "M",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:37:14.245Z"
+  },
+  {
+    "id": "mqdh1hqdf8z2h",
+    "sku": "407628",
+    "name": "子",
+    "color": "蓝色",
+    "size": "L",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:37:14.245Z"
+  },
+  {
+    "id": "mqdh1hqdcreuk",
+    "sku": "407628",
+    "name": "子",
+    "color": "蓝色",
+    "size": "XL",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:37:14.245Z"
+  },
+  {
+    "id": "mqdh1hqddm8en",
+    "sku": "407628",
+    "name": "子",
+    "color": "蓝色",
+    "size": "2XL",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:37:14.245Z"
   }
 ]
