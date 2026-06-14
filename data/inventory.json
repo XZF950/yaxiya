@@ -130,5 +130,89 @@
     "totalOut": 0,
     "price": 0,
     "createdAt": "2026-06-14T07:33:08.990Z"
+  },
+  {
+    "id": "mqdgzz0m9t1tg",
+    "sku": "407588",
+    "name": "子",
+    "color": "灰色",
+    "size": "S",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:36:03.334Z"
+  },
+  {
+    "id": "mqdgzz0mv1ey8",
+    "sku": "407588",
+    "name": "子",
+    "color": "灰色",
+    "size": "M",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:36:03.334Z"
+  },
+  {
+    "id": "mqdgzz0mt6j20",
+    "sku": "407588",
+    "name": "子",
+    "color": "灰色",
+    "size": "L",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:36:03.334Z"
+  },
+  {
+    "id": "mqdgzz0m32krl",
+    "sku": "407588",
+    "name": "子",
+    "color": "灰色",
+    "size": "XL",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:36:03.334Z"
+  },
+  {
+    "id": "mqdgzz0m60kkw",
+    "sku": "407588",
+    "name": "子",
+    "color": "灰色",
+    "size": "2XL",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:36:03.334Z"
+  },
+  {
+    "id": "mqdgzz0m52au5",
+    "sku": "407588",
+    "name": "子",
+    "color": "杏色",
+    "size": "S",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:36:03.334Z"
+  },
+  {
+    "id": "mqdgzz0mcpe72",
+    "sku": "407588",
+    "name": "子",
+    "color": "杏色",
+    "size": "XL",
+    "qty": 1,
+    "totalIn": 1,
+    "totalOut": 0,
+    "price": 0,
+    "createdAt": "2026-06-14T07:36:03.334Z"
   }
 ]
